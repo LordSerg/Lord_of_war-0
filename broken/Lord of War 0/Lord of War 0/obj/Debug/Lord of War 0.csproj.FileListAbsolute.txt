@@ -1,0 +1,16 @@
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0.5\Lord of War 0\Lord of War 0\bin\Debug\Lord of War 0.exe.config
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\bin\Debug\Lord of War 0.exe.config
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\bin\Debug\Lord of War 0.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\bin\Debug\Lord of War 0.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\bin\Debug\OpenTK.dll
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\obj\Debug\Lord of War 0.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\obj\Debug\Lord_of_War_0.Form1.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\obj\Debug\Lord_of_War_0.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\obj\Debug\Lord of War 0.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\obj\Debug\Lord of War 0.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 0\Lord of War 0\Lord of War 0\obj\Debug\Lord of War 0.pdb
